@@ -1,16 +1,26 @@
-## Hi there 👋
+# Samira Maadallah — Senior QA Engineer
 
-<!--
-**smaadallah/smaadallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+6+ years in software quality assurance, test management, and process implementation.
+ISTQB Certified | CSM | CSPO | MSc Computer Science
 
-Here are some ideas to get you started:
+## What I do
+- Test strategy design and end-to-end QA process implementation
+- Manual and automated testing (Playwright, Robot Framework)
+- Team building and QA team leadership
+- API testing and regression testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience highlights
+- Led QA operations at Mister Auto FR (French automotive e-commerce)
+- Delivered QA services at ATOS (global IT services)
+- Currently expanding automation skills with Playwright + TypeScript
+
+## Certifications
+- ISTQB Foundation Level
+- Certified ScrumMaster (CSM)
+- Certified Scrum Product Owner (CSPO)
+
+## Currently open to
+Remote Senior QA Engineer roles — preferably US-based companies
+
+📍 Florida, USA
+🔗 [LinkedIn](https://www.linkedin.com/in/samira-maad-allah-921015207/)
