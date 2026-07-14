@@ -1,4 +1,4 @@
-# enior QA Engineer | ISTQB Certified | Test Management & Automation | Playwright | Robot Framework
+# Senior QA Engineer | ISTQB Certified | Test Management & Automation | Playwright | Robot Framework
 
 I design and ship production-grade software end-to-end by orchestrating AI development tools — combining systems architecture, specification discipline, and six years of QA engineering rigour.
 
