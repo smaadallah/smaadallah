@@ -1,4 +1,4 @@
-# AI Builder & Senior QA Engineer | Spec-first AI development, QA-verified | ISTQB · PSM I · PSPO I | Playwright · TypeScript
+# Samira Maad Allah, AI Builder & Senior QA Engineer | Spec-first AI development, QA-verified | ISTQB · PSM I · PSPO I | Playwright · TypeScript
 
 I design and ship production-grade software end-to-end by orchestrating AI development tools — combining systems architecture, specification discipline, and six years of QA engineering rigour.
 
@@ -19,9 +19,10 @@ My testing background is what makes my AI builds different: every system I deliv
 - API testing, regression testing, and QA team leadership
 
 ## Experience highlights
-- Built VRM Agent — a production-grade AI SaaS for vacation rental operations — solo in three weeks: 849 automated tests, zero failures
-- Led QA operations at Mister Auto FR (French automotive e-commerce)
-- Delivered QA services at ATOS (global IT services)
+- Built **Hubert Capivara** — an AI-chatbot demo product for real estate agents, live at [hubertcapivara.com](https://hubertcapivara.com). Phase 1 shipped; Phase 2 (live AI chatbot) in development
+- Built **VRM Agent** — a production-grade AI SaaS for vacation rental operations — solo in three weeks: 849 automated tests, zero failures
+- Led E2E testing for **La Poste Group** (via ATOS) — 15-person team across 15+ sub-projects within a SAFe Agile Release Train; received a performance award
+- Built QA from scratch at **Mister Auto FR** (Stellantis Group) for a full ERP migration
 
 ## Certifications
 - ISTQB Foundation Level
