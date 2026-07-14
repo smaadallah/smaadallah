@@ -1,4 +1,4 @@
-# Senior QA Engineer | ISTQB Certified | Test Management & Automation | Playwright | Robot Framework
+# AI Builder & Senior QA Engineer | Spec-first AI development, QA-verified | ISTQB · PSM I · PSPO I | Playwright · TypeScript
 
 I design and ship production-grade software end-to-end by orchestrating AI development tools — combining systems architecture, specification discipline, and six years of QA engineering rigour.
 
