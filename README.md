@@ -1,6 +1,6 @@
 # AI Builder & Senior QA Engineer | Spec-first AI development, QA-verified | ISTQB · PSM I · PSPO I | Playwright · TypeScript
 
-I design and ship production-grade software end-to-end by orchestrating AI development tools — combining systems architecture, specification discipline, and six years of QA engineering rigour.
+I design and ship production-grade software end-to-end by orchestrating AI development tools — combining systems architecture, specification discipline, and seven years of QA engineering rigour.
 
 My testing background is what makes my AI builds different: every system I deliver is planned, decomposed, tested, and verified — not assembled and hoped over.
 
