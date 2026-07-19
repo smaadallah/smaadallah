@@ -6,18 +6,19 @@ My testing background is what makes my AI builds different: every system I deliv
 
 ## What I do
 
-### AI Builder
-- End-to-end software delivery via AI orchestration — from product specification to tested, production-grade output
-- Spec-first development: PRDs, architecture documents, atomic implementation tickets
-- Multi-tenant SaaS architecture, API integrations, job queues, webhook systems
-- Formal QA sign-off on every build
-
 ### Senior QA Engineer
 - Test strategy design and end-to-end QA process implementation
 - Manual and automated testing — Playwright, TypeScript, Robot Framework
 - AI-augmented testing: faster coverage, higher quality, lower cost by combining automation expertise with AI orchestration
 - API testing, regression testing, and QA team leadership
 
+### AI Builder
+- End-to-end software delivery via AI orchestration — from product specification to tested, production-grade output
+- Spec-first development: PRDs, architecture documents, atomic implementation tickets
+- Multi-tenant SaaS architecture, API integrations, job queues, webhook systems
+- Formal QA sign-off on every build
+
+  
 ## Experience highlights
 - Built **Hubert Capivara** — an AI-chatbot demo product for real estate agents, live at [hubertcapivara.com](https://hubertcapivara.com). Phase 1 shipped; Phase 2 (live AI chatbot) in development
 - Built **VRM Agent** — a production-grade AI SaaS for vacation rental operations — solo in three weeks: 849 automated tests, zero failures
