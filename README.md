@@ -1,4 +1,4 @@
-# Senior QA Engineer & AI Builder | Spec-first AI development, QA-verified | ISTQB · PSM I · PSPO I | Playwright · TypeScript
+# Senior QA Automation Engineer | Playwright · TypeScript · Test Strategy | I build & test live AI systems | ISTQB · PSM I · PSPO I
 
 I design and ship production-grade software end-to-end by orchestrating AI development tools — combining systems architecture, specification discipline, and seven years of QA engineering rigour.
 
